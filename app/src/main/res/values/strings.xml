@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">TourExample</string>
+    <!--tab titles -->
+    <string name="restaurant_title">Restaurants</string>
+    <string name="mall_title">Malls</string>
+    <string name="museum_title">Museums</string>
+    <string name="gym_title">Fitness</string>
+
+    <!--restaurant names -->
+    <string name="restaurant_1_name">Al Labeeb Grocery</string>
+    <string name="restaurant_2_name">Al Fanar Restaurant and Cafe</string>
+    <string name="restaurant_3_name">Al Marhabani Restaurant</string>
+
+    <!--restaurant descriptions -->
+    <string name="restaurant_1_about">This is a little Dubai gem that Peyman brought me to. It’s a small Iranian grocery and convenience store, but the real reason you want to come here is to get your hands on regag bread. </string>
+    <string name="restaurant_2_about">Al Fanar is one of the few traditional Emirati restaurants, and they have an impressive menu that consists of everything from Emirati rice and meat feasts to desserts, snacks, and even breakfast dishes. </string>
+    <string name="restaurant_3_about">Al Marhabani Restaurant in Dubai is at the top of their mandi game, and they served what was easily one of my favorite meals in Dubai – that lamb drumstick will melt in your mouth! </string>
+
+    <!--museum names -->
+    <string name="museum_1_name">Dubai Museum</string>
+    <string name="museum_2_name">XVA Gallery</string>
+    <string name="museum_3_name">Etihad Museum</string>
+
+    <!--museum descriptions -->
+    <string name="museum_1_about">Dubai Museum is the main museum in Dubai, United Arab Emirates. It is located in the Al Fahidi Fort, built in 1787 and is the oldest existing building in Dubai.</string>
+    <string name="museum_2_about">Established in 2003, XVA is one of the leading galleries in the Middle East that specializes in contemporary art from the Arab world, Iran and the Subcontinent.</string>
+    <string name="museum_3_about">The Etihad Museum collects, preserves, and displays the heritage of the United Arab Emirates in the areas of social, political, cultural, scientific, and military history. The museum takes its visitors to the foundation of phase the UAE.</string>
+
+    <!--fitness center names -->
+    <string name="fitness_1_name">MMA Fitness Center</string>
+    <string name="fitness_2_name">Motion Ladies Fitness Center</string>
+
+    <!--fitness center descriptions -->
+    <string name="fitness_1_about">MMA Fitness Centre enables everyone to enjoy the fusion of disciplines, known as Mixed Martial Arts.</string>
+    <string name="fitness_2_about">It is a community for Dubai ladies to work on their lifestyle and reach their goals in a relaxing, supportive and cozy environment.</string>
+    <string name="site_2_about"> </string>
+    <string name="site_3_about"> </string>
+
+
+</resources>
