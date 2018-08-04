@@ -25,7 +25,7 @@ public class TourGuidePagerAdapter extends FragmentPagerAdapter {
                 case 2:
                     return new museumFragment();
                 case 3:
-                    return new gymFragment();
+                    return new fitnessFragment();
                 default:
                     return null;
 
