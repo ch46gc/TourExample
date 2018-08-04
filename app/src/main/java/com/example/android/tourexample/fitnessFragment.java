@@ -22,7 +22,7 @@ public class fitnessFragment extends Fragment {
     }
 
     //The Fragments are created in the getContext method
-    public Context getContext() {
+    public Context context() {
         mContext = this.getContext();
         return mContext;
     }
@@ -40,7 +40,7 @@ public class fitnessFragment extends Fragment {
         cards.add(new Card(getString(R.string.fitness_1_name), getString(R.string.fitness_1_about), R.drawable.mma_fitness));
         cards.add(new Card(getString(R.string.fitness_2_name), getString(R.string.fitness_2_about), R.drawable.motion_fit));
         //Create RecyclerView adapter and set it to the RecyclerView
-        CustomCardAdapter historicalAdapter = new CustomCardAdapter(getContext(), cards);
+        CustomCardAdapter historicalAdapter = new CustomCardAdapter(context(), cards);
         recycle.setAdapter(historicalAdapter);
 
 
